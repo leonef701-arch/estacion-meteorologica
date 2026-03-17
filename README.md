@@ -1,3 +1,3 @@
 # Estación Meteorológica ProA
-## Integrantes: LEONE Barrionuevo Franco
+## Integrantes: Leone Barrionuevo Franco
 * Sensor de temperatura, humedad y presión.
