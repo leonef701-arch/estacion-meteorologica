@@ -1,5 +1,7 @@
 # Proyecto: Estación Meteorológica 2026
 
+...
+
 ## Especialidad / 5to Año
 Este repositorio contiene el desarrollo integral de una estación meteorológica, integrando hardware con Arduino, Programación en VISUAL STUDIO CODE en lenguaje python y Analisis de datos  con MySQL Workbech Python, Power Bi y Google Colab.
 
@@ -15,6 +17,8 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 * **database_sql/**: Scripts de MySQL Workbench.
 * **docs/**: Documentación y leyes de software.
 * **python_app/**: Aplicación de escritorio (POO).
+
+...
 
 🛠️ Tecnologías Utilizadas
 En este proyecto integramos diversas herramientas distribuidas en tres áreas clave:
