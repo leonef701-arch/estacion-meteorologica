@@ -11,3 +11,5 @@ ahora = datetime.now()
 hora_formateada = ahora.strftime("%H:%M:%S")
 # 3. Resultado final (Lo que se enviaría luego a la DB)
 print(f"Lectura guardada: {temperatura}°C a las {hora_formateada}")
+
+pip install pyserial
